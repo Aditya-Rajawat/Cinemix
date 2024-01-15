@@ -1,4 +1,4 @@
-# Netgflix GPT
+# Cinemix
 
 - Create React App
 - Configure Tailwind CSS
